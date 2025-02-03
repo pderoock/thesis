@@ -1,4 +1,3 @@
-### **Erasmus University, Rotterdam** — Pepijn de Roock
 
 ## **An investigation into the state of the European emissions market; is the European Union's Emissions Trading Scheme effective in reducing emissions in the aviation sector?**
 
@@ -15,3 +14,4 @@ The focus on the aviation sector.
 Amongst the sectors covered by the EU ETS, the commercial aviation industry holds a unique status; it is the only sector with its own allowance, known as European Union Aviation Allowances (EUAA). EUAAs cannot be exchanged for EUAs, meaning that the commercial aviation sector -- unlike all other sectors -- cannot trade allowances across sectors. There is, therefore, no (direct) spillover effect, meaning that any change in price or volatility on the announcement date of a policy change of the EU ETS is a perfect proxy for the sector's reaction towards this change.
 
 *For both the methodology and the results I would like to refer to my [thesis](thesis.pdf).*
+### **Erasmus University, Rotterdam** — Pepijn de Roock
